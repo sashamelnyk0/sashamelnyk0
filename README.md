@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Oleksandr 👋
 
-<!--
-**sashamelnyk0/sashamelnyk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer | Final-year CS Student @ PJAIT, Warsaw
 
-Here are some ideas to get you started:
+I build REST APIs and backend systems with Spring Boot, focusing on clean architecture, secure authentication, and scalable data handling. Currently looking for a Junior/Intern Backend Developer role.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+Backend: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
+Database: PostgreSQL
+Messaging: Apache Kafka
+Storage: MinIO
+Testing: JUnit 5
+Tools: Git, Docker, Docker Compose, Maven, Gradle, Postman
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+
+## 🚀 Check out my pinned repositories below for project details
+
+## 📫 Let's Connect
+LinkedIn: linkedin.com/in/oleksandr-melnyk-89956a317
+Email: sashamel098@gmail.com
+##📍 Based in Warsaw, Poland | Open to remote opportunities across Europe
